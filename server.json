@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/octopus-energy",
+  "title": "Octopus Energy",
+  "description": "Octopus Energy public API MCP — UK energy tariffs & products.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/octopus-energy",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-octopus-energy",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/octopus-energy/mcp"
+    }
+  ]
+}
