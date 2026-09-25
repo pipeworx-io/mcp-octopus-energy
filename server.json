@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/octopus-energy",
   "title": "Octopus Energy",
   "description": "Octopus Energy public API MCP — UK energy tariffs & products.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/octopus-energy",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-octopus-energy",
