@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-octopus-energy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Octopus Energy public API MCP — UK energy tariffs & products.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "octopus-energy",
     "gatewaySlug": "octopus-energy",
-    "sourceHash": "v1-9a20b14bae57385b7eb7eec83b2654856a94bda82b35098850b90de3eb6fff43",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-eea5943af780d070a8f0695bffd575c880b88d8a99636316f380bf1a5ccf6cbe",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
